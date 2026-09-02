@@ -76,14 +76,6 @@
 
 ## 🚀 Projects
 
-### 🌙 [Perpetual Night — Cross-Platform Creative Writing & Interactive Storytelling App](https://github.com/Raeken337/perpetual-night)
-
-> A cross-platform creative writing application built with **.NET MAUI**, featuring configurable writing prompts, branching narrative journeys, local project persistence, text-to-speech, and image-based project customisation across Windows, IOS, and Android.
-
-`.NET MAUI` `C#` `XAML` `Cross-Platform` `Local Storage`
-
----
-
 ### 🤖 [Zenith — AI Security & Lateral Movement Research Project](https://github.com/Raeken337/zenith-ai-security-lab)
 
 > An experimental **AI and machine learning security system** designed to investigate how effectively adaptive models can detect and respond to suspicious behaviour, compromised accounts, and lateral movement across a simulated multi-site corporate network.
@@ -97,6 +89,14 @@
 > A Python-based digital forensics and incident triage platform combining **machine learning, phishing analysis, email and header forensics, URL inspection, case management, and evidentiary logging** into a unified investigative workflow.
 
 `Python` `scikit-learn` `Streamlit` `NLP` `Digital Forensics` `Machine Learning`
+
+---
+
+### 🌙 [Perpetual Night — Cross-Platform Creative Writing & Interactive Storytelling App](https://github.com/Raeken337/perpetual-night)
+
+> A cross-platform creative writing application built with **.NET MAUI**, featuring configurable writing prompts, branching narrative journeys, local project persistence, text-to-speech, and image-based project customisation across Windows, IOS, and Android.
+
+`.NET MAUI` `C#` `XAML` `Cross-Platform` `Local Storage`
 
 <div align="center">
 
