@@ -32,9 +32,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
+
 <p align="center"> 
   <img src="./assets/tide-divider.svg" width="100%" alt="" /> 
 </p>
+
 
 ## 📜 Certifications Roadmap
 
@@ -54,13 +56,15 @@
   <img
     src="./assets/current-orbit.svg?v=1"
     alt="Currently Studying: CompTIA Security+. Next Orbit: SC-500 Cloud and AI Security."
-    width="700"
+    width="850"
   />
 </div>
+
 
 <p align="center"> 
   <img src="./assets/tide-divider.svg" width="100%" alt="" /> 
 </p>
+
 
 ## 🚀 Projects
 
@@ -86,9 +90,11 @@
 
 `.NET MAUI` `C#` `XAML` `Cross-Platform` `Local Storage`
 
+
 <p align="center"> 
   <img src="./assets/tide-divider.svg" width="100%" alt="" /> 
 </p>
+
 
 ## 🎓 Education
 
