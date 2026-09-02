@@ -80,22 +80,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Bilal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raeken337&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&icon_color=ffffff&text_color=94a3b8)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raeken337&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=94a3b8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Raeken337&theme=dark&hide_border=true&background=0a0a0a&stroke=2a2a2a&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=94a3b8&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff)
-
-</div>
-
----
-
 ## 🎓 Education
 
 ### BSc (Hons) Cyber Security — Manchester Metropolitan University *(2023–2026)*
