@@ -1,0 +1,44 @@
+<svg width="760" height="60" viewBox="0 0 760 60" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text {
+      font-family: Georgia, serif;
+      font-size: 16px;
+      font-style: italic;
+      fill: #C8C7D4;
+      opacity: 0;
+      animation:
+        fadeIn 2.8s ease-in-out infinite,
+        shimmer 4.5s ease-in-out infinite,
+        drift 5s ease-in-out infinite;
+    }
+
+    @keyframes fadeIn {
+      0%   { opacity: 0.15; }
+      25%  { opacity: 1; }
+      75%  { opacity: 1; }
+      100% { opacity: 0.15; }
+    }
+
+    @keyframes shimmer {
+      0%   { fill: #77758B; }
+      40%  { fill: #C8C7D4; }
+      55%  { fill: #E6E4F0; }
+      70%  { fill: #A9A7D8; }
+      100% { fill: #77758B; }
+    }
+
+    @keyframes drift {
+      0%, 100% { transform: translateX(0px); }
+      45%      { transform: translateX(1px); }
+      55%      { transform: translateX(-1px); }
+    }
+  </style>
+
+  <text
+    x="50%"
+    y="35"
+    text-anchor="middle"
+    class="text">
+    Building intelligent systems somewhere between security and the moonlight.
+  </text>
+</svg>
