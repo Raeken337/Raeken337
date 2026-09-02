@@ -50,8 +50,6 @@
 | ☁️    | Microsoft Certified: **Azure Fundamentals** (AZ-900)                             |
 | 🔒    | **AWS Certified Security – Specialty**                                           |
 
----
-
 ## ☾ Current Orbit
 
 <div align="center">
