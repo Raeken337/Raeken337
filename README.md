@@ -5,10 +5,12 @@
 ### Cybersecurity Graduate • AI Engineering • Machine Learning
 
 <p align="center">
-  <img src="./assets/moonlight-tagline.svg" alt="Building intelligent systems somewhere between security and the moonlight." width="760" />
+  <img
+    src="./assets/moonlight-tagline.svg?v=2"
+    alt="Building intelligent systems somewhere between security and the moonlight."
+    width="760"
+  />
 </p>
-
-</div>
 
 ---
 
