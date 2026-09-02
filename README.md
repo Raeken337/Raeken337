@@ -60,11 +60,9 @@
 
 </div>
 
-<div align="center">
-
-`☾ ⋆⁺₊⋆ ✦ ⋆⁺₊⋆ ☽`
-
-</div>
+<p align="center"> 
+  <img src="./assets/tide-divider.svg" width="100%" alt="" /> 
+</p>
 
 ## 🚀 Projects
 
@@ -90,11 +88,9 @@
 
 `.NET MAUI` `C#` `XAML` `Cross-Platform` `Local Storage`
 
-<div align="center">
-
-`☾ ⋆⁺₊⋆ ✦ ⋆⁺₊⋆ ☽`
-
-</div>
+<p align="center"> 
+  <img src="./assets/tide-divider.svg" width="100%" alt="" /> 
+</p>
 
 ## 🎓 Education
 
@@ -123,11 +119,9 @@
 - **Psychology** — B
 - **English Language** — B
 
-<div align="center">
-
-`☾ ⋆⁺₊⋆ ✦ ⋆⁺₊⋆ ☽`
-
-</div>
+<p align="center"> 
+  <img src="./assets/tide-divider.svg" width="100%" alt="" /> 
+</p>
 
 ## 🌐 Languages
 
