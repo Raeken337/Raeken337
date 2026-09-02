@@ -88,17 +88,15 @@
 
 ---
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
+## ✦ GitHub Stats
 
 <div align="center">
 
-![Bilal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raeken337&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&icon_color=ffffff&text_color=94a3b8)
+![Bilal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raeken337&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D16&title_color=A9A7D8&icon_color=8B87C9&text_color=C8C7D4)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raeken337&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=94a3b8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raeken337&layout=compact&theme=dark&hide_border=true&bg_color=0D0D16&title_color=A9A7D8&text_color=C8C7D4)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Raeken337&theme=dark&hide_border=true&background=0a0a0a&stroke=2a2a2a&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=94a3b8&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff)
+![GitHub Streak](https://streak-stats.demolab.com?user=Raeken337&theme=dark&hide_border=true&background=0D0D16&stroke=26263A&ring=A9A7D8&fire=8B87C9&currStreakLabel=A9A7D8&sideLabels=C8C7D4&dates=77758B&currStreakNum=E6E4F0&sideNums=E6E4F0)
 
 </div>
 
@@ -138,8 +136,3 @@
 - 🇬🇧 **English** — Native
 - 🇵🇰 **Urdu** — A2 / Elementary Conversational
 - 🇪🇸 **Spanish** — A1–A2 / Elementary
-
----
-
-<div align="center">
-
