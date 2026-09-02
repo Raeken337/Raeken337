@@ -5,12 +5,10 @@
 ### Cybersecurity Graduate • AI Engineering • Machine Learning
 
 <p align="center">
-  <img
-    src="./assets/moonlight-tagline.svg?v=2"
-    alt="Building intelligent systems somewhere between security and the moonlight."
-    width="760"
-  />
+  <img src="./assets/moonlight-tagline.svg" alt="Building intelligent systems somewhere between security and the moonlight." width="760" />
 </p>
+
+</div>
 
 ---
 
@@ -24,7 +22,11 @@
 - 🌍 Based in **Manchester, UK**
 - 📫 Reach me at **mbilalahmed935@gmail.com**
 
----
+<div align="center">
+
+`☾ ⋆⁺₊⋆ ✦ ⋆⁺₊⋆ ☽`
+
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -38,7 +40,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
----
+<div align="center">
+
+`☾ ⋆⁺₊⋆ ✦ ⋆⁺₊⋆ ☽`
+
+</div>
 
 ## 📜 Certifications Roadmap
 
@@ -62,7 +68,11 @@
 
 </div>
 
----
+<div align="center">
+
+`☾ ⋆⁺₊⋆ ✦ ⋆⁺₊⋆ ☽`
+
+</div>
 
 ## 🚀 Projects
 
@@ -88,21 +98,11 @@
 
 `Python` `scikit-learn` `Streamlit` `NLP` `Digital Forensics` `Machine Learning`
 
----
-
-## ✦ GitHub Stats
-
 <div align="center">
 
-![Bilal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raeken337&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D16&title_color=A9A7D8&icon_color=8B87C9&text_color=C8C7D4)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raeken337&layout=compact&theme=dark&hide_border=true&bg_color=0D0D16&title_color=A9A7D8&text_color=C8C7D4)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Raeken337&theme=dark&hide_border=true&background=0D0D16&stroke=26263A&ring=A9A7D8&fire=8B87C9&currStreakLabel=A9A7D8&sideLabels=C8C7D4&dates=77758B&currStreakNum=E6E4F0&sideNums=E6E4F0)
+`☾ ⋆⁺₊⋆ ✦ ⋆⁺₊⋆ ☽`
 
 </div>
-
----
 
 ## 🎓 Education
 
@@ -131,7 +131,11 @@
 - **Psychology** — B
 - **English Language** — B
 
----
+<div align="center">
+
+`☾ ⋆⁺₊⋆ ✦ ⋆⁺₊⋆ ☽`
+
+</div>
 
 ## 🌐 Languages
 
