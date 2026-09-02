@@ -19,7 +19,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Graduated from Manchester Metropolitan University in Cyber Security
-- ☁️ Built projects revolving AI, Machine Learning and digital forensic investigation
+- ☁️ Built projects revolving around AI, Machine Learning and digital forensics
 - 💻 Competent in **Python**
 - 🤖 Currently developing **Forenguard** and **Zenith**
 - 📚 Currently studying **CompTIA Sec+**, and moving towards **SC-500 — Cloud and AI Security Engineer Associate**
@@ -92,7 +92,7 @@
 
 ### 🌙 [Perpetual Night — Cross-Platform Creative Writing & Interactive Storytelling App](https://github.com/Raeken337/perpetual-night)
 
-> A cross-platform creative writing application built with **.NET MAUI**, featuring configurable writing prompts, branching narrative journeys, local project persistence, text-to-speech, and image-based project customisation across Windows, IOS, and Android.
+> A cross-platform creative writing application built with **.NET MAUI**, featuring configurable writing prompts, branching narrative journeys, local project persistence, text-to-speech, and image-based project customisation across Windows, iOS, and Android.
 
 `.NET MAUI` `C#` `XAML` `Cross-Platform` `Local Storage`
 
