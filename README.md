@@ -10,8 +10,6 @@
 
 </div>
 
----
-
 ## 👨‍💻 About Me
 
 - 🎓 Graduated from Manchester Metropolitan University in Cyber Security
