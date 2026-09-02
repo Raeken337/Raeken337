@@ -51,9 +51,11 @@
 ## ☾ Current Orbit
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=A9A7D8&center=true&vCenter=true&width=600&lines=%E2%98%BE+Currently+Studying%3A+CompTIA+Security%2B;%E2%9C%A6+Next+Orbit%3A+SC-500+Cloud+%26+AI+Security)](https://git.io/typing-svg)
-
+  <img
+    src="./assets/current-orbit.svg?v=1"
+    alt="Currently Studying: CompTIA Security+. Next Orbit: SC-500 Cloud and AI Security."
+    width="700"
+  />
 </div>
 
 <p align="center"> 
