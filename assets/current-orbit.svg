@@ -1,0 +1,291 @@
+<svg
+  width="760"
+  height="70"
+  viewBox="0 0 760 70"
+  xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <!-- Base moon/ocean text colour -->
+    <linearGradient id="textColour" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7896A8"/>
+      <stop offset="45%" stop-color="#C3D5DF"/>
+      <stop offset="55%" stop-color="#DDE9EF"/>
+      <stop offset="100%" stop-color="#829BAD"/>
+    </linearGradient>
+
+
+    <!-- ================================================= -->
+    <!-- SOFT REVEAL GRADIENT -->
+    <!-- White = visible -->
+    <!-- Black = invisible -->
+    <!-- ================================================= -->
+
+    <linearGradient id="revealGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="white"/>
+      <stop offset="68%" stop-color="white"/>
+      <stop offset="82%" stop-color="#BBBBBB"/>
+      <stop offset="92%" stop-color="#555555"/>
+      <stop offset="100%" stop-color="black"/>
+    </linearGradient>
+
+
+    <!-- CURRENT STUDY REVEAL -->
+    <mask
+      id="currentReveal"
+      maskUnits="userSpaceOnUse"
+      x="0"
+      y="0"
+      width="760"
+      height="70">
+
+      <rect width="760" height="70" fill="black"/>
+
+      <rect
+        x="-760"
+        y="0"
+        width="760"
+        height="70"
+        fill="url(#revealGradient)">
+
+        <animate
+          attributeName="x"
+          values="-760;0;0;0;-760"
+          keyTimes="0;0.31;0.47;0.49;1"
+          dur="16s"
+          repeatCount="indefinite"/>
+
+      </rect>
+
+    </mask>
+
+
+    <!-- NEXT ORBIT REVEAL -->
+    <mask
+      id="nextReveal"
+      maskUnits="userSpaceOnUse"
+      x="0"
+      y="0"
+      width="760"
+      height="70">
+
+      <rect width="760" height="70" fill="black"/>
+
+      <rect
+        x="-760"
+        y="0"
+        width="760"
+        height="70"
+        fill="url(#revealGradient)">
+
+        <animate
+          attributeName="x"
+          values="-760;-760;0;0;-760"
+          keyTimes="0;0.50;0.81;0.98;1"
+          dur="16s"
+          repeatCount="indefinite"/>
+
+      </rect>
+
+    </mask>
+
+
+    <!-- ================================================= -->
+    <!-- SHIMMER -->
+    <!-- ================================================= -->
+
+    <linearGradient id="shimmerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#D8EDF7" stop-opacity="0"/>
+      <stop offset="47%" stop-color="#D8EDF7" stop-opacity="0.35"/>
+      <stop offset="52%" stop-color="#FFFFFF" stop-opacity="1"/>
+      <stop offset="58%" stop-color="#C5DDE9" stop-opacity="0.45"/>
+      <stop offset="75%" stop-color="#A7C6D6" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+
+
+    <!-- CURRENT SHIMMER -->
+    <mask
+      id="currentShimmer"
+      maskUnits="userSpaceOnUse"
+      x="0"
+      y="0"
+      width="760"
+      height="70">
+
+      <rect width="760" height="70" fill="black"/>
+
+      <rect
+        x="-240"
+        y="0"
+        width="240"
+        height="70"
+        fill="url(#shimmerGradient)">
+
+        <animate
+          attributeName="x"
+          values="-240;760;760;760;-240"
+          keyTimes="0;0.31;0.47;0.99;1"
+          dur="16s"
+          repeatCount="indefinite"/>
+
+      </rect>
+
+    </mask>
+
+
+    <!-- NEXT SHIMMER -->
+    <mask
+      id="nextShimmer"
+      maskUnits="userSpaceOnUse"
+      x="0"
+      y="0"
+      width="760"
+      height="70">
+
+      <rect width="760" height="70" fill="black"/>
+
+      <rect
+        x="-240"
+        y="0"
+        width="240"
+        height="70"
+        fill="url(#shimmerGradient)">
+
+        <animate
+          attributeName="x"
+          values="-240;-240;760;760;-240"
+          keyTimes="0;0.50;0.81;0.99;1"
+          dur="16s"
+          repeatCount="indefinite"/>
+
+      </rect>
+
+    </mask>
+
+
+    <!-- Soft moonlight glow -->
+    <filter
+      id="softGlow"
+      x="-30%"
+      y="-100%"
+      width="160%"
+      height="300%">
+
+      <feGaussianBlur
+        stdDeviation="1.3"
+        result="blur"/>
+
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+
+    </filter>
+
+  </defs>
+
+
+  <!-- ================================================= -->
+  <!-- CURRENTLY STUDYING -->
+  <!-- ================================================= -->
+
+  <g opacity="1">
+
+    <!--
+      Visible during first half.
+      Holds, then gently fades before Next Orbit.
+    -->
+    <animate
+      attributeName="opacity"
+      values="1;1;1;0;0"
+      keyTimes="0;0.36;0.42;0.49;1"
+      dur="16s"
+      repeatCount="indefinite"/>
+
+
+    <!-- Base text -->
+    <text
+      x="380"
+      y="42"
+      text-anchor="middle"
+      font-family="'Fira Code', Consolas, monospace"
+      font-size="18"
+      font-weight="500"
+      fill="url(#textColour)"
+      mask="url(#currentReveal)">
+
+      ☾ Currently Studying: CompTIA Security+
+
+    </text>
+
+
+    <!-- Moving shimmer -->
+    <text
+      x="380"
+      y="42"
+      text-anchor="middle"
+      font-family="'Fira Code', Consolas, monospace"
+      font-size="18"
+      font-weight="500"
+      fill="#F4FBFF"
+      mask="url(#currentShimmer)"
+      filter="url(#softGlow)">
+
+      ☾ Currently Studying: CompTIA Security+
+
+    </text>
+
+  </g>
+
+
+  <!-- ================================================= -->
+  <!-- NEXT ORBIT -->
+  <!-- ================================================= -->
+
+  <g opacity="0">
+
+    <animate
+      attributeName="opacity"
+      values="0;0;1;1;1;0"
+      keyTimes="0;0.50;0.51;0.86;0.92;1"
+      dur="16s"
+      repeatCount="indefinite"/>
+
+
+    <!-- Base text -->
+    <text
+      x="380"
+      y="42"
+      text-anchor="middle"
+      font-family="'Fira Code', Consolas, monospace"
+      font-size="18"
+      font-weight="500"
+      fill="url(#textColour)"
+      mask="url(#nextReveal)">
+
+      ✦ Next Orbit: SC-500 — Cloud &amp; AI Security
+
+    </text>
+
+
+    <!-- Moving shimmer -->
+    <text
+      x="380"
+      y="42"
+      text-anchor="middle"
+      font-family="'Fira Code', Consolas, monospace"
+      font-size="18"
+      font-weight="500"
+      fill="#F4FBFF"
+      mask="url(#nextShimmer)"
+      filter="url(#softGlow)">
+
+      ✦ Next Orbit: SC-500 — Cloud &amp; AI Security
+
+    </text>
+
+  </g>
+
+</svg>
