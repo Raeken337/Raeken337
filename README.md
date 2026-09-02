@@ -1,10 +1,14 @@
 <div align="center">
 
-# Hello, I'm Bilal 👋
+# ☾ Hello, I'm Bilal
 
-**Cybersecurity Graduate From Manchester Metropolitan University**
+### Cybersecurity Graduate • AI Engineering • Machine Learning
+
+*Building intelligent systems somewhere between security and the moonlight.*
 
 </div>
+
+<br>
 
 ---
 
@@ -48,9 +52,13 @@
 
 ---
 
-## 📚 Currently Studying
+## ☾ Current Orbit
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=6C9EFF&width=500&lines=Currently+Studying%3A+CompTIA+Security%2B)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=A9A7D8&center=true&vCenter=true&width=600&lines=%E2%98%BE+Currently+Studying%3A+CompTIA+Security%2B;%E2%9C%A6+Next+Orbit%3A+SC-500+Cloud+%26+AI+Security)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -77,6 +85,22 @@
 > A Python-based digital forensics and incident triage platform combining **machine learning, phishing analysis, email and header forensics, URL inspection, case management, and evidentiary logging** into a unified investigative workflow.
 
 `Python` `scikit-learn` `Streamlit` `NLP` `Digital Forensics` `Machine Learning`
+
+---
+
+## 📊 GitHub Stats
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Bilal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raeken337&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&icon_color=ffffff&text_color=94a3b8)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raeken337&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=94a3b8)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Raeken337&theme=dark&hide_border=true&background=0a0a0a&stroke=2a2a2a&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=94a3b8&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff)
+
+</div>
 
 ---
 
@@ -118,3 +142,4 @@
 ---
 
 <div align="center">
+
